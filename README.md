@@ -1,24 +1,26 @@
-## Oi eu sou Wallace, desenvolvedor Delphi experiente com conhecimento em bancos de dados Oracle e SQL Server!
+## Hi, I'm Wallace, an experienced Delphi developer with knowledge in Oracle and SQL Server databases!
 
-Estou sempre em busca de conhecimento e oportunidades de aprendizado. Atualmente, estou trabalhando em projetos pessoais e estudando novas tecnologias, incluindo Dart e Flutter.
+I am always seeking knowledge and learning opportunities. Currently, I am working on personal projects and studying new technologies.
 
 ## 🚀 Skills
 
-- Desenvolvimento em Delphi
-- Banco de Dados Oracle e SQL Server
-- Estudando outras tecnologias.
+- Delphi experience
+- Object-oriented programming (OOP)
+- Database knowledge (Oracle and SQL Server)
+- Knowledge of related technologies
+- Problem-solving skills
+- Communication skills.
 
 ## 📫 Contato
 
-- [LinkedIn](https://www.linkedin.com/in/wallace-keller-couto/)
+- [LinkedIn](https://www.linkedin.com/in/wallace-keller-couto/?locale=en_US)
 
 ## 👀 Estatísticas do GitHub
 
 [![wallacekeller](https://github-readme-stats.vercel.app/api?username=wallacekeller&show_icons=true&count_private=true&theme=radical)](https://github.com/wallacekeller)
 
-
 ## 🎯 Objetivos
 
-Meu objetivo é continuar aprendendo e melhorando minhas habilidades em programação, bem como contribuir para projetos de código aberto. Estou sempre aberto a novas oportunidades de colaboração e aprendizado.
+My goal is to continue learning and improving my programming skills, as well as contributing to open-source projects. I am always open to new collaboration and learning opportunities.
 
 ---
