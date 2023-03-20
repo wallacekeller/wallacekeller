@@ -21,9 +21,9 @@ I am always seeking knowledge and learning opportunities. Currently, I am workin
 
 ## 👀 GitHub Stats
 
-[![wallacekeller](https://github-readme-stats.vercel.app/api?username=wallacekeller&show_icons=true&count_private=true&theme=radical)](https://github.com/wallacekeller)
-
 ![Snake animation](https://github.com/wallacekeller/wallacekeller/blob/output/github-contribution-grid-snake.svg)
+
+[![wallacekeller](https://github-readme-stats.vercel.app/api?username=wallacekeller&show_icons=true&count_private=true&theme=radical)](https://github.com/wallacekeller)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=wallacekeller&theme=dark&hide_border=false)<br/>
 
