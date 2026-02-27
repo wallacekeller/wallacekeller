@@ -1,16 +1,29 @@
-## Hi, I'm Wallace, an experienced Delphi developer with knowledge in Oracle and SQL Server databases!
+Hi 👋 I'm Wallace
 
-I am always seeking knowledge and learning opportunities. Currently, I am working on personal projects and studying new technologies.
+I'm a Delphi developer with solid experience in building desktop and business applications.
+I have strong knowledge of relational databases, especially Oracle and SQL Server, and I enjoy working with clean, well-structured code.
 
-## 🚀 Skills
+I'm constantly learning and improving my skills. Currently, I'm working on personal projects and studying Python, focusing on building a strong foundation and applying it in practical projects.
 
-- Delphi experience
-- Object-oriented programming (OOP)
-- Database knowledge (Oracle and SQL Server)
-- Knowledge of related technologies
-- Problem-solving skills
-- Communication skills.
+🚀 Tech Stack & Skills
+- Delphi (VCL / FMX)
+- Object-Oriented Programming (OOP)
+- Oracle & SQL Server
+- SQL, data modeling, and performance tuning
+- Python (currently studying and building projects)
+- Integration with external systems and APIs
+- Problem-solving and analytical thinking
+- Clear communication and teamwork
 
+🧪 Personal Projects & Hobbies
+- Arduino (personal and hobby automation projects)
+- Home Assistant (home automation as a hobby, non-professional)
+
+📌 What I'm up to
+- Developing personal Delphi projects
+- Learning Python and expanding my technology stack
+- Studying best practices, clean code, and software architecture
+  
 ## 📫 Contact
 
 - [LinkedIn](https://www.linkedin.com/in/wallace-keller-couto/?locale=en_US)
